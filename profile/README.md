@@ -1,6 +1,6 @@
 ## Hi there 👋
 We're a startup based in Heidelberg developing highly scalable software solutions for the digital realm. Wanna join us? Head over to [https://dotreflection.com/careers](https://dotreflection.com/careers) and see what we have to offer!
-![Dotreflection in the ocean](profile/ocean.jpg)
+![Dotreflection in the ocean](https://github.com/dotreflection/.github/blob/141954cc74926bb097404401afe84de8a4669338/profile/ocean.jpg)
 <!--
 
 **Here are some ideas to get you started:**
