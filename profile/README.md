@@ -1,5 +1,5 @@
 ## Hi there 👋
-We're a startup based in Heidelberg developing highly scalable software solutions for the digital realm. Wanna join us? Head over to [dotreflection.com/careers](dotreflection.com/careers) and see what we have to offer!
+We're a startup based in Heidelberg developing highly scalable software solutions for the digital realm. Wanna join us? Head over to [https://dotreflection.com/careers](https://dotreflection.com/careers) and see what we have to offer!
 
 <!--
 
